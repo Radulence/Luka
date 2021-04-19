@@ -1,3 +1,8 @@
+html {
+background-color: black;
+}
+
+
 body {
     margin: 0;
     font: normal 75% Arial, Helvetica, sans-serif;
@@ -6,8 +11,7 @@ body {
   canvas {
     display: block;
     vertical-align: bottom;
-    background-color: black;
-	height: 100vh;	  
+    background-color: black;	  
   }
   /* ---- particles.js container ---- */
   
