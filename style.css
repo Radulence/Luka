@@ -145,27 +145,27 @@ color: rgb(158, 41, 41);
     2% {opacity: 0;}
     5% {opacity: 0;}
     6% {opacity: 0;}
-    7% {opacity: 0;}
-    10% {opacity: 0;}
-    15%{opacity: 0.01;}
-    20% {opacity: 0.04;}
-    25% {opacity: 0.08;}
-    30% {opacity: 0.12;}
-    35% {opacity: 0.17;}
-    45% {opacity: 0.22;}
-    47% {opacity: 0.27;}
-    49% {opacity: 0.33;}
-    50% {opacity: 0.39;}
-    60%{opacity: 0.43;}
-    62% {opacity: 0.49;}
-    65% {opacity: 0.54;}
-    70% {opacity: 0.62;}
-    75% {opacity: 0.67;}
-    85% {opacity: 0.74;}
-    90% {opacity: 0.81;}
-    95% {opacity: 0.89;}
-    97% {opacity: 0.93;}
-    99% {opacity: 0.96;}
+    7% {opacity: 0.045;}
+    10% {opacity: 0.09;}
+    15%{opacity: 0.135;}
+    20% {opacity: 0.180;}
+    25% {opacity: 0.225;}
+    30% {opacity: 0.270;}
+    35% {opacity: 0.315;}
+    45% {opacity: 0.360;}
+    47% {opacity: 0.405;}
+    49% {opacity: 0.450;}
+    50% {opacity: 0.495;}
+    60%{opacity: 0.540;}
+    62% {opacity: 0.585;}
+    65% {opacity: 0.630;}
+    70% {opacity: 0.675;}
+    75% {opacity: 0.720;}
+    85% {opacity: 0.765;}
+    90% {opacity: 0.810;}
+    95% {opacity: 0.855;}
+    97% {opacity: 0.900;}
+    99% {opacity: 0.945;}
     100% {opacity:1;}
   }
   
